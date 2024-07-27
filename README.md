@@ -19,6 +19,7 @@ daily_notes_app/
 ├── lib/
 │   ├── models/
 │   │   └── note.dart
+|   |   ├── user.dart
 │   ├── providers/
 │   │   ├── auth_provider.dart
 │   │   └── notes_provider.dart
